@@ -4,6 +4,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am learning Golang back-end, and looking for a back-end job.
 - 📚 I am a student of Computer Science and Technology in Northeastern University Shenyang, China.
-
-```java
-```
